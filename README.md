@@ -1,2 +1,2 @@
 # Founder
-Liberator's submodul. It create instance from class.
+Liberator's submodule. It create instance from class.
